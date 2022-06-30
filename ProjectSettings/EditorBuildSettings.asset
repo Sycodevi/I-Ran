@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: b7074b0a341238c45af465f397e99285
+  - enabled: 1
+    path: Assets/Scenes/Lv1 Graveyard.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Lv2 The Woods.unity
+    guid: b641bafd6bcdb4e43a55904c246dd534
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 364a5b7485c020f488b20156010b6a2e,
+      type: 2}
